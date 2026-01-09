@@ -2,7 +2,12 @@
 *BCA Student | Web Developer | DSA Learner*
 
 # 💫 About Me:
-👨‍💻 I'm currently working on frontend projects using React, Tailwind CSS & GSAP  <br>🤝 I'm looking to collaborate on beginner-friendly open source projects  <br>🧠 I'm looking for help with DSA, backend basics & system design  <br>🌱 I'm currently learning React, Java, DSA, DBMS & Cybersecurity  <br>💬 Ask me about HTML, CSS, JavaScript, GSAP, Three.js  <br>⚡ Fun fact: I love building cool UIs more than watching tutorials
+👨‍💻 Frontend developer & BCA student  
+🚀 Building interactive web experiences with React, GSAP & Three.js  
+🤝 Open to collaborations on frontend & open-source projects  
+🌱 Learning DSA, Java, DBMS & Cybersecurity  
+💬 Ask me about web animations & UI development  
+⚡ Fun fact: I turn ideas into UI before finishing the tutorial
 
 
 ## 🌐 Socials:
