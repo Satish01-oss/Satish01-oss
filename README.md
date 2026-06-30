@@ -11,7 +11,7 @@
 
 - 🎓 BCA Student
 - 💻 Full Stack Web Developer
-- 🌱 Currently learning **Java, DSA, DBMS & Cybersecurity**
+- 🌱 Currently learning **Java, DSA & Cybersecurity**
 - ⚛️ Building projects with **React, Tailwind CSS, Node.js & MongoDB**
 - 🤝 Open to collaborations and open-source contributions
 - 🎯 Goal: Become a skilled Software Developer
