@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;MERN+Stack+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
-<a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=6366f1&labelColor=0d1117" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-6366f1?style=flat-square&labelColor=0d1117" alt="Open to collaboration" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -100,9 +94,6 @@ goal: become a skilled Software Developer
 </a>
 <a href="mailto:ss7233563@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
